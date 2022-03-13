@@ -1,7 +1,7 @@
 const Ninjas = () => {
     return (
         <div>
-            <h1>All Ninjas here or index.js</h1>
+            <h1>All Ninjas here or ninjas/index.js</h1>
         </div>
       );
 }
